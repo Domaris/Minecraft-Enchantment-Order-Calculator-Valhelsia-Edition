@@ -43,6 +43,37 @@ var magicstring2 = `
             "38":2,
             "39":1,
             "40":2,
+			"41":1,
+			"42":2,
+			"43":1,
+			"44":1,
+			"45":2,
+			"46":1,
+			"47":2,
+			"48":2,
+			"49":1,
+			"50":2,
+			"51":4,
+			"52":1,
+			"53":4,
+			"54":1,
+			"55":1,
+			"56":1,
+			"57":4,
+			"58":1,
+			"59":4,
+			"60":4,
+			"61":4,
+			"62":1,
+			"63":1,
+			"64":1,
+			"65":1,
+			"66":1,
+			"67":1,
+			"68":1,
+			"69":2,
+			"70":1,
+			"71":1,
             "1000":2
         },
         "item":{
@@ -87,6 +118,37 @@ var magicstring2 = `
             "38":4,
             "39":2,
             "40":4,
+			"41":1,
+			"42":2,
+			"43":1,
+			"44":1,
+			"45":2,
+			"46":1,
+			"47":2,
+			"48":2,
+			"49":1,
+			"50":2,
+			"51":4,
+			"52":1,
+			"53":4,
+			"54":1,
+			"55":1,
+			"56":1,
+			"57":4,
+			"58":1,
+			"59":4,
+			"60":4,
+			"61":4,
+			"62":1,
+			"63":1,
+			"64":1,
+			"65":1,
+			"66":1,
+			"67":1,
+			"68":1,
+			"69":2,
+			"70":1,
+			"71":1,
             "1000":4
         }
     },
@@ -132,6 +194,37 @@ var magicstring2 = `
         "38":4,
         "39":5,
         "40":3,
+		"41":1,
+		"42":1,
+		"43":3,
+		"44":1,
+		"45":1,
+		"46":2,
+		"47":2,
+		"48":1,
+		"49":4,
+		"50":3,
+		"51":3,
+		"52":4,
+		"53":1,
+		"54":3,
+		"55":3,
+		"56":5,
+		"57":3,
+		"58":1,
+		"59":1,
+		"60":3,
+		"61":3,
+		"62":3,
+		"63":2,
+		"64":2,
+		"65":2,
+		"66":1,
+		"67":3,
+		"68":3,
+		"69":1,
+		"70":3,
+		"71":3,
         "1000":3
     },
     "raw":[
@@ -422,12 +515,229 @@ var magicstring2 = `
             4,
             2
         ],
-        [
+		[
+            41,
+            "lavawaxed",
+            "i",
+            1,
+            1
+        ],
+		[
+            42,
+            "serpent_charmer",
+            "i",
+            2,
+            2
+        ],
+		[
+            43,
+            "straddle_jump",
+            "iii",
+            1,
+            1
+        ],
+		[
+            44,
+            "returning_board",
+            "i",
+            1,
+            1
+        ],
+		[
+            45,
+            "alleviating",
+            "i",
+            2,
+            2
+        ],
+		[
+            46,
+            "launch",
+            "ii",
+            1,
+            1
+        ],
+		[
+            47,
+            "reeling",
+            "ii",
+            2,
+            2
+        ],
+		[
+            48,
+            "reforming",
+            "i",
+            2,
+            2
+        ],
+		[
+            49,
+            "shockwave",
+            "iiii",
+            1,
+            1
+        ],
+		[
+            50,
+            "spread_of_ailments",
+            "iii",
+            2,
+            2
+        ],
+		[
+            51,
+            "vengeance",
+            "iii",
+            4,
+            4
+        ],
+		[
+            52,
+            "spell_reflection",
+            "iiii",
+            1,
+            1
+        ],
+		[
+            53,
+            "soulbound",
+            "i",
+            4,
+            4
+        ],
+		[
+            54,
+            "mana_regen",
+            "iii",
+            1,
+            1
+        ],
+		[
+            55,
+            "mana_boost",
+            "iii",
+            1,
+            1
+        ],
+		[
+            56,
+            "sculk_smite",
+            "iiiii",
+            1,
+            1
+        ],
+		[
+            57,
+            "catalysis",
+            "iii",
+            4,
+            4
+        ],
+		[
+            58,
+            "chopper",
+            "i",
+            1,
+            1
+        ],
+		[
+            59,
+            "enfeeble",
+            "i",
+            4,
+            4
+        ],
+		[
+            60,
+            "sustain",
+            "iii",
+            4,
+            4
+        ],
+		[
+            61,
+            "rupture",
+            "iii",
+            4,
+            4
+        ],
+		[
+            62,
+            "bounce",
+            "iii",
+            1,
+            1
+        ],
+		[
+            63,
+            "rebound",
+            "iii",
+            1,
+            1
+        ],
+		[
+            64,
+            "haunted",
+            "ii",
+            1,
+            1
+        ],
+		[
+            65,
+            "spirit_plunder",
+            "ii",
+            1,
+            1
+        ],
+		[
+            66,
+            "replenishing",
+            "i",
+            1,
+            1
+        ],
+		[
+            67,
+            "fire_react",
+            "iii",
+            1,
+            1
+        ],
+		[
+            68,
+            "chill_aura",
+            "iii",
+            1,
+            1
+        ],
+		[
+            69,
+            "self_sling",
+            "i",
+            2,
+            2
+        ],
+		[
+            70,
+            "ricochet",
+            "iii",
+            1,
+            1
+        ],
+		[
+            71,
+            "longevity",
+            "iii",
+            1,
+            1
+        ],
+		[
             1000,
             "sweeping_edge",
             "iii",
-            4,
-            2
+            1,
+            1
         ]
     ],
     "conflicts":{
@@ -456,19 +766,29 @@ var magicstring2 = `
         ],
         "9":[
             10,
-            11
+            11,
+			56
         ],
         "10":[
             9,
             11,
             38,
-            39
+            39,
+			56
         ],
         "11":[
             9,
             10,
             38,
-            39
+            39,
+			56
+        ],
+		"56":[
+            9,
+			10,
+			11,
+			38,
+			39
         ],
         "16":[
             18
@@ -477,13 +797,19 @@ var magicstring2 = `
             16
         ],
         "22":[
-            26
+            26,
+			48
+        ],
+		"48":[
+            22,
+			26
         ],
         "25":[
             7
         ],
         "26":[
-            22
+            22,
+			48
         ],
         "30":[
             31,
@@ -510,6 +836,12 @@ var magicstring2 = `
             10,
             11,
             38
+        ]
+		"67":[
+            68
+        ],
+		"68":[
+            67
         ]
     },
     "idmap":{
@@ -554,6 +886,37 @@ var magicstring2 = `
         "38":"breach",
         "39":"density",
         "40":"wind_burst",
+		"41":"lavawaxed",
+		"42":"serpent_charmer",
+		"43":"straddle_jump",
+		"44":"returning_board",
+		"45":"alleviating",
+		"46":"launch",
+		"47":"reeling",
+		"48":"reforming",
+		"49":"shockwave",
+		"50":"spread_of_ailments",
+		"51":"vengeance",
+		"52":"spell_reflection",
+		"53":"soulbound",
+		"54":"mana_regen",
+		"55":"mana_boost",
+		"56":"sculk_smite",
+		"57":"catalysis",
+		"58":"chopper",
+		"59":"enfeeble",
+		"60":"sustain",
+		"61":"rupture",
+		"62":"bounce",
+		"63":"rebound",
+		"64":"haunted",
+		"65":"spirit_plunder",
+		"66":"replenishing",
+		"67":"fire_react",
+		"68":"chill_aura",
+		"69":"self_sling",
+		"70":"ricochet",
+		"71":"longevity",
         "1000":"sweeping_edge",
         "protection":0,
         "fire_protection":1,
@@ -593,10 +956,41 @@ var magicstring2 = `
         "quick_charge":35,
         "soul_speed":36,
         "swift_sneak":37,
-        "sweeping_edge":1000,
         "breach":"38",
         "density":"39",
-        "wind_burst":"40"
+        "wind_burst":"40",
+		"lavawaxed":41,
+		"serpent_charmer":42,
+		"straddle_jump":43,
+		"returning_board":44,
+		"alleviating":45,
+		"launch":46,
+		"reeling":47,
+		"reforming":48,
+		"shockwave":49,
+		"spread_of_ailments":50,
+		"vengeance":51,
+		"spell_reflection":52,
+		"soulbound":53,
+		"mana_regen":54,
+		"mana_boost":55,
+		"sculk_smite":56,
+		"catalysis":57,
+		"chopper":58,
+		"enfeeble":59,
+		"sustain":60,
+		"rupture":61,
+		"bounce":62,
+		"rebound":63,
+		"haunted":64,
+		"spirit_plunder":65,
+		"replenishing":66,
+		"fire_react":67,
+		"chill_aura":68,
+		"self_sling":69,
+		"ricochet":70,
+		"longevity":71,
+		"sweeping_edge":1000,
     },
     "enchantable":{
         "0":[
@@ -826,6 +1220,178 @@ var magicstring2 = `
         "40":[
             "mace"
         ],
+		"41":[
+            "straddleboard"
+        ],
+		"42":[
+            "straddleboard"
+        ],
+		"43":[
+            "straddleboard"
+        ],
+		"44":[
+            "straddleboard"
+        ],
+		"45":[
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots",
+            "elytra",
+            "turtle_shell"
+        ],
+		"46":[
+            "sword"
+        ],
+		"47":[
+            "crossbow"
+        ],
+		"48":[
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots",
+            "pickaxe",
+            "shovel",
+            "axe",
+            "sword",
+            "hoe",
+            "fishing_rod",
+            "bow",
+            "shears",
+            "flint_and_steel",
+            "carrot_on_a_stick",
+            "warped_fungus_on_a_stick",
+            "shield",
+            "elytra",
+            "trident",
+            "turtle_shell",
+            "crossbow",
+            "mace"
+        ],
+		"49":[
+            "boots"
+        ],
+		"50":[
+            "crossbow"
+        ],
+		"51":[
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots",
+            "elytra",
+            "turtle_shell"
+        ],
+		"52":[
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots",
+            "elytra",
+            "turtle_shell"
+        ],
+		"53":[
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots",
+            "pickaxe",
+            "shovel",
+            "axe",
+            "sword",
+            "hoe",
+            "fishing_rod",
+            "bow",
+            "shears",
+            "flint_and_steel",
+            "carrot_on_a_stick",
+            "warped_fungus_on_a_stick",
+            "shield",
+            "elytra",
+            "trident",
+            "turtle_shell",
+            "crossbow",
+            "mace"
+        ],
+		"54":[
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots",
+            "elytra",
+            "turtle_shell"
+        ],
+		"55":[
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots",
+            "elytra",
+            "turtle_shell"
+        ],
+		"56":[
+            "sword",
+            "axe",
+            "mace"
+        ],
+		"57":[
+            "sword",
+            "axe",
+            "mace"
+        ],
+		"58":[
+            "axe"
+        ],
+		"59":[
+            "tablet"
+        ],
+		"60":[
+            "tablet"
+        ],
+		"61":[
+            "tablet"
+        ],
+		"62":[
+            "boomerang"
+        ],
+		"63":[
+            "scythe"
+        ],
+		"64":[
+            "scythe"
+        ],
+		"65":[
+            "scythe"
+        ],
+		"66":[
+            "scythe"
+        ],
+		"67":[
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots",
+            "elytra",
+            "turtle_shell"	
+        ],
+		"68":[
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots",
+            "elytra",
+            "turtle_shell"	
+        ],
+		"69":[
+            "slingshot"
+        ],
+		"40":[
+            "slingshot"
+        ],
+		"40":[
+            "slingshot"
+        ],
         "1000":[
             "sword"
         ]
@@ -842,7 +1408,16 @@ var magicstring2 = `
             "17",
             "26",
             "27",
-            "28"
+            "28",
+			"45",
+			"48",
+			"51",
+			"52",
+			"53",
+			"54",
+			"55",
+			"67",
+			"68"
         ],
         "chestplate":[
             "0",
@@ -853,7 +1428,16 @@ var magicstring2 = `
             "17",
             "26",
             "27",
-            "28"
+            "28",
+			"45",
+			"48",
+			"51",
+			"52",
+			"53",
+			"54",
+			"55",
+			"67",
+			"68"
         ],
         "leggings":[
             "0",
@@ -865,7 +1449,16 @@ var magicstring2 = `
             "26",
             "27",
             "28",
-            "37"
+            "37",
+			"45",
+			"48",
+			"51",
+			"52",
+			"53",
+			"54",
+			"55",
+			"67",
+			"68"
         ],
         "boots":[
             "0",
@@ -880,7 +1473,17 @@ var magicstring2 = `
             "26",
             "27",
             "28",
-            "36"
+            "36",
+			"45",
+			"48",
+			"51",
+			"52",
+			"53",
+			"54",
+			"55",
+			"67",
+			"68",
+			"49"
         ],
         "turtle_shell":[
             "0",
@@ -893,7 +1496,16 @@ var magicstring2 = `
             "17",
             "26",
             "27",
-            "28"
+            "28",
+			"45",
+			"48",
+			"51",
+			"52",
+			"53",
+			"54",
+			"55",
+			"67",
+			"68"
         ],
         "sword":[
             "9",
@@ -905,6 +1517,10 @@ var magicstring2 = `
             "17",
             "26",
             "28",
+			"46",
+            "53",
+            "56",
+            "57",
             "1000"
         ],
         "axe":[
@@ -916,7 +1532,13 @@ var magicstring2 = `
             "17",
             "18",
             "26",
-            "28"
+            "28",
+			"46",
+			"48",
+            "53",
+            "56",
+            "57",
+			"58"
         ],
         "pickaxe":[
             "15",
@@ -924,7 +1546,12 @@ var magicstring2 = `
             "17",
             "18",
             "26",
-            "28"
+            "28",
+			"46",
+			"48",
+            "53",
+            "56",
+            "57",
         ],
         "shovel":[
             "15",
@@ -932,7 +1559,12 @@ var magicstring2 = `
             "17",
             "18",
             "26",
-            "28"
+            "28",
+			"46",
+			"48",
+            "53",
+            "56",
+            "57",
         ],
         "hoe":[
             "15",
@@ -940,20 +1572,29 @@ var magicstring2 = `
             "17",
             "18",
             "26",
-            "28"
+            "28",
+			"46",
+			"48",
+            "53",
+            "56",
+            "57",
         ],
         "shears":[
             "15",
             "17",
             "26",
-            "28"
+            "28",
+			"48",
+			"53"
         ],
         "fishing_rod":[
             "17",
             "23",
             "24",
             "26",
-            "28"
+            "28",
+			"48",
+			"53"
         ],
         "bow":[
             "17",
@@ -962,33 +1603,72 @@ var magicstring2 = `
             "21",
             "22",
             "26",
-            "28"
+            "28",
+			"48",
+			"53"
         ],
         "flint_and_steel":[
             "17",
             "26",
-            "28"
+            "28",
+			"48",
+			"53"
         ],
         "carrot_on_a_stick":[
             "17",
             "26",
-            "28"
+            "28",
+			"48",
+			"53"
         ],
         "warped_fungus_on_a_stick":[
             "17",
             "26",
-            "28"
+            "28",
+			"48",
+			"53"
         ],
         "shield":[
             "17",
             "26",
-            "28"
+            "28",
+			"48",
+			"53"
         ],
         "elytra":[
             "17",
             "26",
             "27",
-            "28"
+            "28",
+			"48",
+			"53"
+        ],
+		"scythe":[
+            "17",
+            "26",
+            "27",
+            "28",
+			"48",
+			"53",
+			"63",
+			"64"
+        ],
+        "boomerang":[
+            "17",
+            "26",
+            "27",
+            "28",
+			"48",
+			"53",
+			"62"
+        ],
+		"slingshot":[
+            "69",
+            "70",
+            "71",
+            "53",
+			"48",
+			"53"
         ],
         "trident":[
             "17",
@@ -997,7 +1677,9 @@ var magicstring2 = `
             "29",
             "30",
             "31",
-            "32"
+            "32",
+			"48",
+			"53"
         ],
         "crossbow":[
             "17",
@@ -1005,7 +1687,11 @@ var magicstring2 = `
             "28",
             "33",
             "34",
-            "35"
+            "35",
+			"48",
+			"47",
+			"50",
+			"53"
         ],
         "mace":[
             "10",
@@ -1016,7 +1702,9 @@ var magicstring2 = `
             "28",
             "38",
             "39",
-            "40"
+            "40",
+			"48",
+			"53"
         ],
         "enchanted_book":[
             "0",
