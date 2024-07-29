@@ -54,7 +54,7 @@ It searches from the optimal sets to get the best result.
 
 ---
 
-Calculator: https://kkchengaf.github.io/Minecraft-Enchantment-Order-Calculator/
+Calculator: https://domaris.github.io/Minecraft-Enchantment-Order-Calculator-Valhelsia-Edition/
 
 There are 2 modes available:
 - 1 tool + multiple enchantment books (fast)
